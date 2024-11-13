@@ -1,4 +1,4 @@
-# Employee-Churn-Prediction-Using-ML
+# Employee-Churn-Prediction-Using-ML models
 
 Developed predictive models using machine learning to predict employee churn in an organization
 
